@@ -1,0 +1,43 @@
+# requirements.txt - все зависимости проекта
+
+## PyTorch & Deep Learning
+torch
+torchvision
+torchaudio
+torch-geometric
+lightning
+
+## Data Processing
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+
+## APIs & Data Loading
+yfinance
+requests
+fredapi
+pandas-datareader
+
+## Visualization
+matplotlib
+seaborn
+plotly
+tensorboard
+
+## ML Tools & Optimization
+optuna
+scikit-optimize
+wandb
+
+## Utilities
+tqdm
+python-dotenv
+pyyaml
+
+## Development
+jupyter
+ipython
+black
+flake8
